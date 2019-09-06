@@ -27,9 +27,13 @@ If initial data is needed run
 
 ## Services
 GET ```/v1/markers``` fetches all markers
+
 POST ```/v1/markers``` creates new marker
+
 GET ```/v1/markers/:id``` fetches one marker
+
 PUT ```/v1/markers/:id``` updates a marker
+
 DELETE ```/v1/markers/:id``` deletes a marker
 
 ## Run the apllication
